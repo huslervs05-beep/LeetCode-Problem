@@ -11,4 +11,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/huslervs05-beep/Richest-Costumer-Wealth/tree/master/1672-richest-customer-wealth) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/huslervs05-beep/Richest-Costumer-Wealth/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
